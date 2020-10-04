@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MC_Assig_02 | Calculator MMA</string>
-    <string name="questionP1"></string> <string name="questionP2"></string> <string name="answaer"></string>
+    <string name="questionP1">Question</string> <string name="questionP2">Q2</string> <string name="answaer"></string>
 
     <string name="clear">C</string>
     <string name="delete">DEL</string>
